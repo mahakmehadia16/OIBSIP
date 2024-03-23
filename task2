@@ -1,0 +1,67 @@
+
+<html>
+<title> PROFILE </title>
+
+<head>
+<link rel="stylesheet" href="C:\Users\mahak\OneDrive\Desktop\oasis internship\css file.css">
+</head>
+    
+<br>
+<body align=center>
+<h1 align=center color:turquoise> <b><u> PORTFOLIO </u></b> </h1>
+<br>
+
+<h4 back=black> INFORMATION </h4>
+<img src="C:\Users\mahak\Downloads\WhatsApp Image 2024-03-03 at 10.18.26 AM.jpeg"
+height=250 width=200 float=left margin-right=10>
+
+<p> 
+Hi, myself
+<h2 > Mahak Mehadia </h2>
+<h3 > Persuing Btech at Symbiosis Institute of Technology, Nagpur </h3>
+<h3> Contact me: 70XXXXXX81 </h3>
+<h3> Email id: maXXXXXXXXXXia@gmail.com </h3>
+<a href="C:\Users\mahak\OneDrive\Pictures\Screenshots\Screenshot 2024-03-03 102310.png" >
+<button style=color:red type=button> click here for my resume </button>
+</a>
+</p>
+
+<h4 > SKILLS </h4>
+<ul >
+<li>currently persuing btech from symbiosis international university
+<li>interested in graphic designing and web developement </li>
+<li> loves to explore new things </li>
+<li> can manage tasks and groups very well </li>
+<li> loves to explore new things </li>
+<li> keen to learn new things </li>
+</ul>		
+
+<h4> CERTIFICATION COURSES </h4>
+
+<img src="C:\Users\mahak\OneDrive\Pictures\Screenshots\Screenshot 2024-03-03 103253.png"
+height=200 width=300 border="10">
+<img src="C:\Users\mahak\OneDrive\Pictures\Screenshots\Screenshot 2024-03-03 103221.png"
+height=200 width=300 border="10">
+
+<br> <br>
+
+<img src="C:\Users\mahak\OneDrive\Pictures\Screenshots\Screenshot 2024-03-03 103305.png"
+height=200 width=300 border="10">
+<img src="C:\Users\mahak\OneDrive\Pictures\Screenshots\Screenshot 2024-03-03 103242.png"
+height=200 width=300 border="10">
+
+<br> <br>
+
+<img src="C:\Users\mahak\Downloads\frontend development html.jpg"
+height=200 width=300 border="10">
+<img src="C:\Users\mahak\OneDrive\Pictures\Screenshots\Screenshot 2024-03-03 103234.png"
+height=200 width=300 border="10">
+
+
+<h4> CLICK ON THE IMAGE FOR MY LINKEDIN PROFILE: </h4>
+<a href=https://www.linkedin.com/in/mahak-mehadia-236648262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app> 
+<img src=https://www.talkwalker.com/hubfs/Website/Logos/marketplace/Linkedin.png height=50 width=150 float=center>
+</a>
+
+</body> 
+</html>
