@@ -1,0 +1,54 @@
+<html>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Landing Page</title>
+        <link rel="stylesheet" href="C:\Users\mahak\OneDrive\Desktop\oasis internship\task1css.css">
+    </head>
+    <body>
+        <header>
+            <nav>
+                <div class="container">
+                    <h1>FOOD COMPANY</h1>
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="C:\Users\mahak\OneDrive\Desktop\oasis internship\aboutpagetask1.html">About</a></li>
+                        <li><a href="#">Services</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+        
+        <section class="features">
+            <div class="container">
+                <h2>Our Top Dishes</h2>
+                <div class="feature">
+                    
+                    <h3>TEA</h3>
+                    <img src="C:\Users\mahak\Downloads\WhatsApp Image 2024-03-11 at 12.04.23 PM.jpeg" alt="image not found" style="height:200px; width:300px; ">
+                    <p>Tea, a beloved beverage originating from India, has transcended borders and become a global favorite. Combining the robust flavors of black tea with aromatic spices like cardamom, cinnamon, ginger, and cloves, chai offers a comforting and invigorating experience. Its unique blend of sweet, spicy, and earthy notes creates a sensory journey with every sip. Often enjoyed with milk and a touch of sweetener, chai is not merely a drink but a cultural phenomenon, fostering connection and conversation. Whether sipped from traditional clay cups on bustling Indian streets or savored in the coziness of home, chai is a symbol of warmth and hospitality, inviting people to pause, share, and appreciate the simple joys of life.</p>
+                </div>
+                <div class="feature">
+                    <h3>Stir-fried vegetables</h3>
+                    <img src="C:\Users\mahak\Downloads\WhatsApp Image 2024-03-11 at 12.07.21 PM.jpeg"alt="image not found" style="height:200px; width:300px;">
+                    <p>Stir-fried vegetables exemplify the art of quick, flavorful cooking. A medley of vibrant veggies tossed in a hot pan with aromatic spices or sauces creates a dish that's both visually appealing and delicious. This cooking technique preserves the natural crunch and nutritional value of the vegetables, making it a go-to option for a healthy and speedy meal. Stir-fried vegetables showcase the beauty of simplicity, proving that a few fresh ingredients and a sizzling pan can result in a delightful culinary experience.</p>
+                </div>
+                <div class="feature">
+                    <h3>Caprese salad</h3>
+                    <img src="C:\Users\mahak\Downloads\WhatsApp Image 2024-03-11 at 12.08.19 PM.jpeg" alt="image not found" style="height:200px; width:300px;">
+                    <p>Caprese salad, an Italian classic, is a culinary ode to simplicity and quality ingredients. Comprising ripe tomatoes, fresh mozzarella, and basil leaves, it's a harmonious trio that delights the palate. Drizzled with extra-virgin olive oil and balsamic glaze, this refreshing dish embodies the essence of Mediterranean cuisine, offering a burst of flavors and textures in every bite.</p>
+                </div>
+            </div>
+        </section>
+        
+        <footer>
+            <div class="container">
+                <p>&copy; 2024 Your Company. All rights reserved.</p>
+            </div>
+        </footer>
+    </body>
+    </html>
+    
